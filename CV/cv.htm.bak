@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Kenan Idayatov CV</title>
+	</head>
+	<body >
+		<h1 align="center">CV</h1>
+		<h2 align="center">İdayatov Kənan</h2>
+		<h3 align="center">Veb-developer</h3>
+		<hr color="#E2B94F" width="95%"></hr>
+		
+		<img src="Kenan.jpeg" align="right" height="270">
+		<p><b>ƏLAQƏ MƏLUMATLARI</b></p>
+		<p>
+			<b>Ünvan:</b> AZ 0100, Xırdalan, B.Səfəroğlu küçəsi, ev 10
+		</p>
+		<p>
+			<b>Telefon:</b> +99412 502 02 02
+		</p>
+		<p>
+			<b>Mobil:</b> +99499 333 44 05
+		</p>
+		
+		<hr color="#E2B94F" width="95%"></hr>
+		
+		<p><b>ALDIĞI TƏHSİL</b></p>
+		<ol>
+			<li>"STEP" İT Akademiya - Proqramlaşdırma</li>
+			<li>Bakı Mühəndislik Universiteti - İnformasiya Texnologiyaları Fakültəsi</li>
+			<li>239 №-li Orta Məktəb</li>
+		</ol>
+		
+		<hr color="#E2B94F" width="95%"></hr>
+		
+		<p><b>İŞ TƏCRÜBƏSİ</b></p>
+		<dl>
+			<dt><b>2018 - </b></dt>
+			<dd>XXXXX Holdinq</dd>
+			
+			<dt><b>2017 - 2018</b></dt>
+			<dd>Smart Solutions</dd>
+			
+			<dt><b>2016 - 2017</b></dt>
+			<dd>BMU</dd>
+		</dl>
+		
+		<hr color="#E2B94F" width="95%"></hr>
+		
+		<p><b>BİLDİYİ DİLLƏR</b></p>
+		<pre>
+	Azərbaycan			ana dili
+	Rus dili			sərbəst
+	İngilis dili			yaxşı
+	Türk dili			yaxşı
+		</pre>
+		
+		<hr color="#E2B94F" width="95%" size="2"></hr>
+	</body>
+</html>
